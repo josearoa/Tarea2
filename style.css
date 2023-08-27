@@ -53,7 +53,7 @@ h3{
 }
 
 .jif{
-    background-image: url(/Tarea2/foto.jpg);
+    background-image: url(/foto.jpg);
     height: 350px;
     background-size: cover;
     background-repeat: no-repeat;
